@@ -1,0 +1,4 @@
+* Hardware
+Arduino Motor Shield REV3 [A000079]
+https://store-usa.arduino.cc/products/arduino-motor-shield-rev3
+https://www.amazon.com/gp/product/B0084ZQF3O#descriptionAndDetails
